@@ -30,6 +30,18 @@
   ]
  },
  {
+  "table":"UCONHTTPSERVHAND",
+  "data":
+  [
+   {
+    "ID":"YEHO_CREATE_RULE",
+    "VERSION":"A",
+    "SERVICEORDER":1,
+    "SERVICEHANDLER":"YCL_EHO_CREATE_RULE"
+   }
+  ]
+ },
+ {
   "table":"UCONHTTPSERVHEAD",
   "data":
   [
@@ -40,8 +52,8 @@
     "CREATEDON":"2024-12-23",
     "CREATEDAT":"18:30:29",
     "CHANGEDBY":"SAP_CUSTOMER",
-    "CHANGEDON":"2024-12-23",
-    "CHANGEDAT":"18:30:29",
+    "CHANGEDON":"2025-02-18",
+    "CHANGEDAT":"07:04:34",
     "CREATED_BY_OBJ_PGMID":"",
     "CREATED_BY_OBJ_TYPE":"",
     "CREATED_BY_OBJ_NAME":"",
@@ -53,6 +65,18 @@
     "ICFPARGUID":"",
     "ABAP_LANGUAGE_VERSION":"5",
     "XPRA_UPDATE":""
+   }
+  ]
+ },
+ {
+  "table":"UCONHTTPSERVTEXT",
+  "data":
+  [
+   {
+    "ID":"YEHO_CREATE_RULE",
+    "VERSION":"A",
+    "LANG":"T",
+    "SHORTTEXT":"Kural Yarat"
    }
   ]
  }

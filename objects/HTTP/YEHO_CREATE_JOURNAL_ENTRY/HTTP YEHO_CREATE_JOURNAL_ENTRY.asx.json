@@ -30,6 +30,18 @@
   ]
  },
  {
+  "table":"UCONHTTPSERVHAND",
+  "data":
+  [
+   {
+    "ID":"YEHO_CREATE_JOURNAL_ENTRY",
+    "VERSION":"A",
+    "SERVICEORDER":1,
+    "SERVICEHANDLER":"YCL_EHO_CREATE_JOURNAL_ENTRY"
+   }
+  ]
+ },
+ {
   "table":"UCONHTTPSERVHEAD",
   "data":
   [
@@ -40,8 +52,8 @@
     "CREATEDON":"2025-01-02",
     "CREATEDAT":"12:55:02",
     "CHANGEDBY":"SAP_CUSTOMER",
-    "CHANGEDON":"2025-01-02",
-    "CHANGEDAT":"12:55:02",
+    "CHANGEDON":"2025-02-18",
+    "CHANGEDAT":"07:04:25",
     "CREATED_BY_OBJ_PGMID":"",
     "CREATED_BY_OBJ_TYPE":"",
     "CREATED_BY_OBJ_NAME":"",
@@ -53,6 +65,18 @@
     "ICFPARGUID":"",
     "ABAP_LANGUAGE_VERSION":"5",
     "XPRA_UPDATE":""
+   }
+  ]
+ },
+ {
+  "table":"UCONHTTPSERVTEXT",
+  "data":
+  [
+   {
+    "ID":"YEHO_CREATE_JOURNAL_ENTRY",
+    "VERSION":"A",
+    "LANG":"T",
+    "SHORTTEXT":"Muhasebe Belgesi Yarat"
    }
   ]
  }

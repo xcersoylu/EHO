@@ -30,6 +30,18 @@
   ]
  },
  {
+  "table":"UCONHTTPSERVHAND",
+  "data":
+  [
+   {
+    "ID":"YEHO_SPLIT_JOURNAL_ENTRY",
+    "VERSION":"A",
+    "SERVICEORDER":1,
+    "SERVICEHANDLER":"YCL_EHO_SPLIT_JOURNAL_ENTRY"
+   }
+  ]
+ },
+ {
   "table":"UCONHTTPSERVHEAD",
   "data":
   [
@@ -40,8 +52,8 @@
     "CREATEDON":"2025-01-09",
     "CREATEDAT":"20:20:32",
     "CHANGEDBY":"SAP_CUSTOMER",
-    "CHANGEDON":"2025-01-09",
-    "CHANGEDAT":"20:20:32",
+    "CHANGEDON":"2025-02-18",
+    "CHANGEDAT":"07:05:22",
     "CREATED_BY_OBJ_PGMID":"",
     "CREATED_BY_OBJ_TYPE":"",
     "CREATED_BY_OBJ_NAME":"",
@@ -53,6 +65,18 @@
     "ICFPARGUID":"",
     "ABAP_LANGUAGE_VERSION":"5",
     "XPRA_UPDATE":""
+   }
+  ]
+ },
+ {
+  "table":"UCONHTTPSERVTEXT",
+  "data":
+  [
+   {
+    "ID":"YEHO_SPLIT_JOURNAL_ENTRY",
+    "VERSION":"A",
+    "LANG":"T",
+    "SHORTTEXT":"Muhasebe Belgesi Ayrıştırma"
    }
   ]
  }
