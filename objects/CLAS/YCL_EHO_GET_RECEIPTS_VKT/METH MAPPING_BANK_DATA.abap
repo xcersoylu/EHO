@@ -90,7 +90,7 @@
       APPEND ls_offline_data TO et_bank_data.
       CLEAR ls_offline_data.
     ENDLOOP.
-"#TODO opening ve closing balance için methodları CPI dan iste.
+    "#TODO opening ve closing balance için methodları CPI dan iste.
     APPEND VALUE #( companycode = ms_bankpass-companycode
                     glaccount   = ms_bankpass-glaccount
                     valid_from  = mv_startdate
